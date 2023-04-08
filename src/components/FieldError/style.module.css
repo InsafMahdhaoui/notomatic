@@ -1,0 +1,5 @@
+.container {
+  color: #dc3545;
+  position: absolute; /*ne pousser pas les inputs quand ils s'apparaissent */
+  margin-top: 10px;
+}
